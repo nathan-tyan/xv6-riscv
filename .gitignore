@@ -5,8 +5,8 @@ _*
 *.asm
 *.sym
 *.img
-/mkfs/mkfs
-/kernel/kernel
-/user/usys.S
+/src/mkfs/mkfs
+/src/kernel/kernel
+/src/user/usys.S
 .gdbinit
 TAGS
